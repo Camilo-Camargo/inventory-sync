@@ -1,5 +1,5 @@
 {
-  "name": "inventory-stock",
+  "name": "inventory-sync",
   "private": true,
   "version": "0.0.0",
   "type": "module",
